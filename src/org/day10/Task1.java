@@ -27,6 +27,8 @@ public class Task1 {
 		WebElement clk = driver.findElement(By.xpath("//h1[@class='a-size-medium a-color-base a-text-normal']"));
 //		driver.switchTo().window(clk);
 		
+		System.out.println("hjj");
+		
 		
 		
 		
